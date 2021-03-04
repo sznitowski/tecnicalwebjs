@@ -1,0 +1,34 @@
+body {
+    line-height: 40px;
+    font-size: 40px;
+    font-family:Arial ,sans-serif, 'Arial Narrow';
+}
+h2 {
+ border: solid; color: black;
+}
+span {
+ border-style: double;
+ background-color: rgb(250, 224, 190);
+ 
+}
+
+.nav {
+ border: solid; color: black;
+}
+.container-fluid {
+ background-color: rgb(209, 225, 255);
+ border: solid; color: black;
+}
+.col-md-4 {
+
+ width: 80%;
+ border: solid; color: black;
+ background-color: rgb(98, 85, 155);
+ padding-top: 2%;
+ padding-bottom: 4%;
+ overflow:scroll; 
+ height:700px;
+ position: sticky;
+ top: 0;
+
+}
